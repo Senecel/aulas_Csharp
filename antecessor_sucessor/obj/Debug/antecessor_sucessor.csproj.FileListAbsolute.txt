@@ -1,0 +1,6 @@
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\bin\Debug\antecessor_sucessor.exe.config
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\bin\Debug\antecessor_sucessor.exe
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\bin\Debug\antecessor_sucessor.pdb
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\obj\Debug\antecessor_sucessor.csproj.CoreCompileInputs.cache
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\obj\Debug\antecessor_sucessor.exe
+C:\Users\junersio.domingos\source\repos\antecessor_sucessor\obj\Debug\antecessor_sucessor.pdb

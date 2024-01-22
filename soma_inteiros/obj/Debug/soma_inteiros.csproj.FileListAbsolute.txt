@@ -1,0 +1,6 @@
+C:\Users\junersio.domingos\source\repos\soma_inteiros\bin\Debug\soma_inteiros.exe.config
+C:\Users\junersio.domingos\source\repos\soma_inteiros\bin\Debug\soma_inteiros.exe
+C:\Users\junersio.domingos\source\repos\soma_inteiros\bin\Debug\soma_inteiros.pdb
+C:\Users\junersio.domingos\source\repos\soma_inteiros\obj\Debug\soma_inteiros.csproj.CoreCompileInputs.cache
+C:\Users\junersio.domingos\source\repos\soma_inteiros\obj\Debug\soma_inteiros.exe
+C:\Users\junersio.domingos\source\repos\soma_inteiros\obj\Debug\soma_inteiros.pdb

@@ -1,0 +1,7 @@
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\bin\Debug\lerdoisnumeros.exe.config
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\bin\Debug\lerdoisnumeros.exe
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\bin\Debug\lerdoisnumeros.pdb
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\obj\Debug\lerdoisnumeros.csproj.AssemblyReference.cache
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\obj\Debug\lerdoisnumeros.csproj.CoreCompileInputs.cache
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\obj\Debug\lerdoisnumeros.exe
+C:\Users\junersio.domingos\source\repos\lerdoisnumeros\obj\Debug\lerdoisnumeros.pdb
