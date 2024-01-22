@@ -1,0 +1,7 @@
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\bin\Debug\trocar-valores-sem-auxiliar.exe.config
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\bin\Debug\trocar-valores-sem-auxiliar.exe
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\bin\Debug\trocar-valores-sem-auxiliar.pdb
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\obj\Debug\trocar-valores-sem-auxiliar.csproj.AssemblyReference.cache
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\obj\Debug\trocar-valores-sem-auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\obj\Debug\trocar-valores-sem-auxiliar.exe
+C:\Users\junersio.domingos\source\repos\trocar-valores-sem-auxiliar\obj\Debug\trocar-valores-sem-auxiliar.pdb
